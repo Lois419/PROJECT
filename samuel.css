@@ -1,0 +1,230 @@
+*{
+   font-family: Open Sans, sans-serif;
+}
+body {
+  font-family: Open Sans, sans-serif;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: none;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: navy;
+  text-align: center;
+  margin:button {
+    border-radius: 5%;
+    border: none;
+    color: white;
+    background-color: red;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: navy;
+  }
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: open-sans;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  color: red;
+}
+h1 {
+  font-size: 100px;
+  font-family: sans-serif;
+}
+
+button {
+  border-radius: 5%;
+  border: none;
+  color: white;
+  background-color: red;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+button:hover {
+  background-color: navy;
+}
+
+.plc {
+  font-size: 45px;
+  margin-left: 470px;
+}
+.div1 {
+  font-size: 20px;
+  font-family: sans-serif;
+    background-image: url(bckrg1.jpg);
+    background-size: cover;
+  width: 100%;
+  justify-content: center;
+  display: float;
+}
+.div2 {
+  font-size: 20px;
+
+}
+.button1 {
+  border-radius: 5%;
+  border: none;
+  color: white;
+  background-color: red;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 470px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button1:hover {
+  background-color: yellow;
+}
+.button2 {
+  border-radius: 5%;
+  border: none;
+  color: white;
+  background-color: navy;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button2:hover {
+  background-color: red;
+}
+.div3 {
+  width: 35%;
+  border-radius: 10px;
+  font-size: 20px;
+  box-shadow: 5px 5px 5px black;
+  outline: 0.03px solid black;
+  border-radius: 5%;
+  float: left;
+  background: none;
+  width: 500px;
+ padding-top: 5px;
+ height: 250px;
+    background-color: rgb(255, 252, 252);
+}
+.div4 {
+  width: 500px;
+float: right;
+  border-radius: 10px;
+  font-size: 20px;
+  box-shadow: 5px 5px 5px black;
+  outline: 0.03px solid black;
+  border-radius: 5%;
+  background: none;
+   height: 250px;
+   width: 50%;
+   border-width: 0px;
+   background-color: rgb(255, 252, 252);
+}
+a {
+  color: black;
+}
+.div5 {
+  background-image: url(bckrg.jpg);
+background-size: cover;
+   width: 100%;
+ text-align: center;    
+}
+h3 {
+  font-size: 45px;
+ 
+}
+.div6 {
+width: 35%;
+  border-radius: 10px;
+  font-size: 20px;
+  box-shadow: 5px 5px 5px black;
+  outline: 0.03px solid black;
+  border-radius: 5%;
+  float: left;
+  width: 500px;
+ padding-top: 5px;
+ height:455px;
+   background-color: rgb(255, 252, 252);
+}
+
+.il9{
+  float: right;
+}
+.div7{
+float: left;
+}
+.third{
+text-align: center;
+}
+
+.div8{  width: 500px;
+float: right;
+  border-radius: 10px;
+  font-size: 20px;
+  box-shadow: 5px 5px 5px black;
+  outline: 0.03px solid black;
+  border-radius: 5%;
+   height: 350px;
+   width: 50%;
+   border-width: 0px;
+   background-color: rgb(255, 252, 252);
+}
+.join{
+  color: navy;
+}
+.fourth{
+  text-align: center;
+}
+.div9{
+  text-align: center; 
+}
+footer{
+   background-color: navy;
+   height: 50px;
+   text-align: center;
+}
+.final{
+  font-size: 20px;
+  text-align: center;
+  
+}
+.hhopeful{
+font-size: 100px;
+}
+.bhopeful{
+ background-color: navy;
+ font-weight: bold;
+}
+.hopeful{
+    background-image: url(bckrg1.jpg);
+    background-size: cover;
+}
